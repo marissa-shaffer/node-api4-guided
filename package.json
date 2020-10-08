@@ -7,14 +7,14 @@
 	"devDependencies": {
 		"cross-env": "^7.0.2",
 		"dotenv": "^8.2.0",
-		"nodemon": "^2.0.3"
+		"nodemon": "^2.0.4"
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
 		"express": "^4.17.1",
-		"helmet": "^3.22.0",
-		"knex": "^0.20.13",
+		"helmet": "^4.1.1",
+		"knex": "^0.21.6",
 		"morgan": "^1.10.0",
-		"sqlite3": "^4.1.1"
+		"sqlite3": "^5.0.0"
 	}
 }
